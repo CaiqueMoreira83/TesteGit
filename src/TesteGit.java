@@ -2,6 +2,6 @@
 public class TesteGit {
  
 	
-	Super classe linda no GITHUB
+	Classe Feia Sò no local
 
 
